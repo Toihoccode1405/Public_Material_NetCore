@@ -7,4 +7,12 @@
     <description>Cập nhật phiên bản 1.0.0.0:
     - Chương trình ra lò đầu tay phục vụ cho sản xuẩt
     </description>
+    <version>1.0.0.1</version>
+    <url>https://github.com/Toihoccode1405/Public_Material_NetCore/releases/download/v1.0.0.1/Material_Control_WS.zip</url>
+    <mandatory>false</mandatory>
+    <checksum algorithm="MD5">1BFFC3364613BD11318CE3A0F8184E3D</checksum>
+    <description>Cập nhật phiên bản 1.0.0.1:
+    - Thêm Function Đăng xuất
+    - Fix lỗi phân quyền
+    </description>
 </item>

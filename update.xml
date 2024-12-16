@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.1.2</version>
-    <url>https://github.com/Toihoccode1405/Public_Material_NetCore/releases/download/v1.0.1.2/Material_Control_WS.zip</url>
+    <version>1.0.0.0</version>
+    <url>https://github.com/Toihoccode1405/Public_Material_NetCore/releases/download/v1.0.0.0/Material_Control_WS.zip</url>
     <mandatory>false</mandatory>
-    <checksum algorithm="MD5">142ED92682B4E520C691457DF317E138</checksum>
-    <description>Cập nhật phiên bản 1.0.1.2:
-    - Thêm tính năng mới A
-    - Sửa lỗi B
-    - Cải thiện hiệu suất C</description>
+    <checksum algorithm="MD5">0719A7720F1E91169232C109346F79DA</checksum>
+    <description>Cập nhật phiên bản 1.0.0.0:
+    - Chương trình ra lò đầu tay phục vụ cho sản xuẩt
+    </description>
 </item>

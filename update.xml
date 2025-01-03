@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-   <version>1.0.0.2</version>
-        <url>https://github.com/Toihoccode1405/Public_Material_NetCore/releases/download/v1.0.0.2/Material_Control_WS.zip</url>
+   <version>1.0.0.3</version>
+        <url>https://github.com/Toihoccode1405/Public_Material_NetCore/releases/download/v1.0.0.3/Material_Control_WS.zip</url>
         <mandatory>false</mandatory>
-        <checksum algorithm="MD5">07AADD7FBD419C077DAA0E157E8C33A6</checksum>
-        <description>Cập nhật phiên bản 1.0.0.2:
-        - Thêm tổng hợp số lượng xuất của tất cả nguyên vật liệu trong nhiều dự án
-        - Fix lại lỗi nhập xuất nguyên vật liệu
+        <checksum algorithm="MD5">CC30B7F6591D0EBD48E73334F85EFAC1</checksum>
+        <description>Cập nhật phiên bản 1.0.0.3:
+        - Cập nhập chức năng thêm nhiều stack bằng 1 lần setup
         </description>
 </item>
